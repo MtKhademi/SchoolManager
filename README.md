@@ -23,3 +23,13 @@
   - Address
   - FatherName
   - Father-Phone
+- Api Student :
+    - Get by Id
+    - Get by national id
+    - Gets by filter
+        - if empty filter then get all students base pagination
+    - Add a new student
+    - Update a new student
+    - Delete a new Student
+- Test Student :
+    - Write some integration test for APIS 
