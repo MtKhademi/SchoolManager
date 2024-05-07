@@ -16,3 +16,10 @@
 ###1. Manage students : 
 - Entity Student :
   - Name
+  - Nationnal Id
+  - Family
+  - Cell-Phone
+  - Phone
+  - Address
+  - FatherName
+  - Father-Phone
