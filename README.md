@@ -53,3 +53,8 @@
     - Delete a teacher
 - Test Teacher :
     - write some integration tests for APIS
+----------------------------------------------------------------------------
+### 4. Manage Course :
+- Entity Course :
+    - Name
+    - 
