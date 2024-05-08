@@ -43,3 +43,13 @@
     - Phone
     - BirthDate
     - Address
+- Api Student :
+    - Get by Id
+    - Get by national code
+    - Get by filter
+        { optinal name,optional family,optional birthdate, optional nationalId}
+    - Add new teacher
+    - Update a teacher
+    - Delete a teacher
+- Test Teacher :
+    - write some integration tests for APIS
