@@ -16,8 +16,8 @@
 ###1. Manage students : 
 - Entity Student :
   - Name
-  - Nationnal Id
   - Family
+  - Nationnal Id
   - Cell-Phone
   - Phone
   - Address
@@ -32,4 +32,14 @@
     - Update a new student
     - Delete a new Student
 - Test Student :
-    - Write some integration test for APIS 
+    - Write some integration test for APIS
+---------------------------------------------------------------------------
+###2. Manage Teachers : 
+- Entity Teacher :
+    - Name
+    - Family
+    - National Code
+    - Cell-Phone
+    - Phone
+    - BirthDate
+    - Address
