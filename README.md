@@ -13,7 +13,7 @@
 
 ----------------------------------------------------
 ## راهنمایی : 
-###1. Manage students : 
+### 1. Manage students : 
 - Entity Student :
   - Name
   - Family
@@ -34,7 +34,7 @@
 - Test Student :
     - Write some integration test for APIS
 ---------------------------------------------------------------------------
-###2. Manage Teachers : 
+### 2. Manage Teachers : 
 - Entity Teacher :
     - Name
     - Family
