@@ -57,4 +57,16 @@
 ### 4. Manage Course :
 - Entity Course :
     - Name
-    - 
+    - Code
+- Api Course :
+    - Get by Id
+    - Get by code
+    - Get by name
+    - Get by filter {optional Id,optional name,optional code}
+    - Add new course
+    - update a course
+    - delete a course
+    - delete all course
+- Test course Api :
+    - Write some integration tests for APIS
+  
