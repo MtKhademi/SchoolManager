@@ -70,5 +70,9 @@
 - Test course Api :
     - Write some integration tests for APIS
 --------------------------------------------------------------------------------
-### 5. 
+### 5. Manage Authentication and Authorization
+- JWT token without refresh token .
+- Custom manage authorization
+- Check authentication and authorization on each api
+  
   
