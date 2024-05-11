@@ -74,5 +74,13 @@
 - JWT token without refresh token .
 - Custom manage authorization
 - Check authentication and authorization on each api
-  
+---------------------------------------------------------------------------------
+### 6. Report Section : 
+-  دریافت برنامه کلاسی
+    - بر اساس دانش آموز
+      - بر اساس معلم
+      - بر اساس کلاس
+      - بر اساس درس
+
+- دریافت کارنامه شخص
   
